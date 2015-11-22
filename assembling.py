@@ -1,0 +1,1 @@
+# in this file a complete functional widget shall be assembled 
